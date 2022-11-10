@@ -139,13 +139,16 @@ color: #8C7C6D  ;
   color: #F2F2F2;
   font-family: "Montserrat";
   text-align: center;
+  
 }
 
 
 
+
+
 .testimonial-img{
-  width: 15%;
-  border-radius:100%;
+  width: 100%;
+
   margin: 1%;
 }
 
@@ -171,7 +174,7 @@ color: #8C7C6D  ;
 /* carrusel */
 
 .carousel-item{
-  height:450px;
+  height:650px;
   background-color:#1A1C40;
   padding: 7% 15%;
 
@@ -222,7 +225,7 @@ color: #8C7C6D  ;
   color: #030140;
 }
 
-
+testimonial
 
 @media (max-width:1000px) {
   #title{
@@ -240,7 +243,7 @@ color: #8C7C6D  ;
 /* external pages */
 
 .externalpage{
-  background-color: #030140;
+  background-color: #030140;testimonial
   color: #F2F2F2;
   text-align: center;
   padding-top: 3% ;
